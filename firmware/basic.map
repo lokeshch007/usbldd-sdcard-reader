@@ -1,0 +1,1224 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sprintf.o)
+                              USB_device.o (sprintf)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcmp.o)
+                              USB_device.o (strcmp)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcpy.o)
+                              USB_device.o (strcpy)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen-stub.o)
+                              USB_device.o (strlen)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sprintf.o) (_svfprintf_r)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-dtoa.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o) (_dtoa_r)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o) (_localeconv_r)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o) (_malloc_r)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memchr-stub.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o) (memchr)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memcpy.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-dtoa.o) (memcpy)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-dtoa.o) (_Balloc)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfiprintf.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o) (__ssprint_r)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o) (__register_exitproc)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-callocr.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o) (_calloc_r)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o) (_free_r)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfiprintf.o) (memmove)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reallocr.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfiprintf.o) (_realloc_r)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o) (errno)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o) (_sbrk)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_addsubdf3.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-dtoa.o) (__aeabi_dsub)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_muldivdf3.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-dtoa.o) (__aeabi_dmul)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_cmpdf2.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_unorddf2.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o) (__aeabi_dcmpun)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_fixdfsi.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-dtoa.o) (__aeabi_d2iz)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+                              system_LPC17xx.o (__aeabi_uldivmod)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_udivmoddi4.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+/home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_dvmd_tls.o)
+                              /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .data          0x00000000        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .text          0x00000000       0x74 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .text          0x00000000        0x0 USB_device.o
+ .data          0x00000000        0x0 USB_device.o
+ .bss           0x00000000        0x0 USB_device.o
+ .bss.sourceFileName
+                0x00000000        0xc USB_device.o
+ .bss.destFileName
+                0x00000000        0xc USB_device.o
+ .bss.destFilePtr
+                0x00000000        0x4 USB_device.o
+ .bss.totalMemory
+                0x00000000        0x4 USB_device.o
+ .bss.freeMemory
+                0x00000000        0x4 USB_device.o
+ .bss.read_file_buf
+                0x00000000       0x40 USB_device.o
+ .bss.list_buffer
+                0x00000000       0x40 USB_device.o
+ .text          0x00000000        0x0 startup_LPC17xx.o
+ .data          0x00000000        0x0 startup_LPC17xx.o
+ .bss           0x00000000        0x0 startup_LPC17xx.o
+ .text          0x00000000        0x0 system_LPC17xx.o
+ .data          0x00000000        0x0 system_LPC17xx.o
+ .bss           0x00000000        0x0 system_LPC17xx.o
+ .data.SystemCoreClock
+                0x00000000        0x4 system_LPC17xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000      0x284 system_LPC17xx.o
+ .text._exit    0x00000000        0xc system_LPC17xx.o
+ .text          0x00000000        0x0 fat32.o
+ .data          0x00000000        0x0 fat32.o
+ .bss           0x00000000        0x0 fat32.o
+ .text.FILE_Delete
+                0x00000000       0xa4 fat32.o
+ .text.FILE_GetMemoryStatics
+                0x00000000      0x124 fat32.o
+ .text.deletefile
+                0x00000000      0x164 fat32.o
+ .text          0x00000000        0x0 sdcard.o
+ .data          0x00000000        0x0 sdcard.o
+ .bss           0x00000000        0x0 sdcard.o
+ .text.SD_erase
+                0x00000000       0x60 sdcard.o
+ .text          0x00000000        0x0 ssp.o
+ .data          0x00000000        0x0 ssp.o
+ .bss           0x00000000        0x0 ssp.o
+ .text          0x00000000        0x0 gpio.o
+ .data          0x00000000        0x0 gpio.o
+ .bss           0x00000000        0x0 gpio.o
+ .text.GPIO_PinFunction
+                0x00000000       0x88 gpio.o
+ .text.GPIO_PinDirection
+                0x00000000       0x6c gpio.o
+ .text.GPIO_PinWrite
+                0x00000000       0x68 gpio.o
+ .text.GPIO_PinToggle
+                0x00000000       0x48 gpio.o
+ .text.GPIO_PinRead
+                0x00000000       0x58 gpio.o
+ .comment       0x00000000       0x6f gpio.o
+ .ARM.attributes
+                0x00000000       0x33 gpio.o
+ .text          0x00000000        0x0 delay.o
+ .data          0x00000000        0x0 delay.o
+ .bss           0x00000000        0x0 delay.o
+ .text.DELAY_us
+                0x00000000       0x40 delay.o
+ .text.DELAY_ms
+                0x00000000       0x2c delay.o
+ .text.DELAY_sec
+                0x00000000       0x2c delay.o
+ .comment       0x00000000       0x6f delay.o
+ .ARM.attributes
+                0x00000000       0x33 delay.o
+ .text          0x00000000        0x0 lcd.o
+ .data          0x00000000        0x0 lcd.o
+ .bss           0x00000000        0x0 lcd.o
+ .text          0x00000000        0x0 led.o
+ .data          0x00000000        0x0 led.o
+ .bss           0x00000000        0x0 led.o
+ .text.led_blink
+                0x00000000       0x1c led.o
+ .text          0x00000000        0x0 rtc.o
+ .data          0x00000000        0x0 rtc.o
+ .bss           0x00000000        0x0 rtc.o
+ .text.rtc_init
+                0x00000000       0x20 rtc.o
+ .text.rtc_set  0x00000000       0x80 rtc.o
+ .text.rtc_get  0x00000000       0x84 rtc.o
+ .comment       0x00000000       0x6f rtc.o
+ .ARM.attributes
+                0x00000000       0x33 rtc.o
+ .text          0x00000000        0x0 usbcontrol.o
+ .data          0x00000000        0x0 usbcontrol.o
+ .bss           0x00000000        0x0 usbcontrol.o
+ .text          0x00000000        0x0 usbhw_lpc.o
+ .data          0x00000000        0x0 usbhw_lpc.o
+ .bss           0x00000000        0x0 usbhw_lpc.o
+ .text.USBHwRegisterFrameHandler
+                0x00000000       0x30 usbhw_lpc.o
+ .text          0x00000000        0x0 usbinit.o
+ .data          0x00000000        0x0 usbinit.o
+ .bss           0x00000000        0x0 usbinit.o
+ .text          0x00000000        0x0 usbstdreq.o
+ .data          0x00000000        0x0 usbstdreq.o
+ .bss           0x00000000        0x0 usbstdreq.o
+ .text.USBRegisterCustomReqHandler
+                0x00000000       0x1c usbstdreq.o
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sprintf.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sprintf.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x00000000       0x44 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sprintf.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcmp.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcmp.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcpy.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcpy.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcpy.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen-stub.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen-stub.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen-stub.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xd8 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-dtoa.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-dtoa.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-dtoa.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .text._setlocale_r
+                0x00000000       0x40 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .text.__locale_charset
+                0x00000000        0x8 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .text.__locale_mb_cur_max
+                0x00000000        0xc /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .text.__locale_msgcharset
+                0x00000000        0x8 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .text.__locale_cjk_lang
+                0x00000000        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .text.setlocale
+                0x00000000       0x10 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .text.localeconv
+                0x00000000        0x8 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .data.lc_message_charset
+                0x00000000       0x20 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .bss._PathLocale
+                0x00000000        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .bss.__nlocale_changed
+                0x00000000        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .bss.__mlocale_changed
+                0x00000000        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .data.lc_ctype_charset
+                0x00000000       0x20 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .data.__mb_cur_max
+                0x00000000        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memchr-stub.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memchr-stub.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memchr-stub.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+ .text.__s2b    0x00000000       0x98 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+ .text.__ulp    0x00000000       0x44 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+ .text.__b2d    0x00000000       0xd4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+ .text.__ratio  0x00000000       0x54 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+ .text._mprec_log10
+                0x00000000       0x34 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+ .text.__copybits
+                0x00000000       0x48 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+ .text.__any_on
+                0x00000000       0x5c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+ .rodata.__mprec_tinytens
+                0x00000000       0x28 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfiprintf.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfiprintf.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfiprintf.o)
+ .text._svfiprintf_r
+                0x00000000      0xc4c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfiprintf.o)
+ .rodata.blanks.6999
+                0x00000000       0x10 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfiprintf.o)
+ .rodata.str1.4
+                0x00000000       0x2f /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfiprintf.o)
+ .rodata.zeroes.7000
+                0x00000000       0x10 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfiprintf.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-callocr.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-callocr.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-callocr.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reallocr.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reallocr.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reallocr.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x88 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_unorddf2.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_unorddf2.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .jcr           0x00000000        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .text          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .data          0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ .bss           0x00000000        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00002000         0x0007e000         xr
+RAM              0x100000c8         0x00007f38         xrw
+USB_RAM          0x2007c000         0x00004000         xrw
+ETH_RAM          0x20080000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+LOAD USB_device.o
+LOAD startup_LPC17xx.o
+LOAD system_LPC17xx.o
+LOAD fat32.o
+LOAD sdcard.o
+LOAD ssp.o
+LOAD gpio.o
+LOAD delay.o
+LOAD lcd.o
+LOAD led.o
+LOAD rtc.o
+LOAD usbcontrol.o
+LOAD usbhw_lpc.o
+LOAD usbinit.o
+LOAD usbstdreq.o
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libstdc++.a
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libsupc++.a
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libm.a
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libg.a
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libnosys.a
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libstdc++.a
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libsupc++.a
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libm.a
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libg.a
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libnosys.a
+START GROUP
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a
+END GROUP
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+LOAD /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+
+.text           0x00002000     0x80f0
+ *(.isr_vector)
+ .isr_vector    0x00002000       0xc4 startup_LPC17xx.o
+                0x00002000                g_pfnVectors
+ *(.text*)
+ .text          0x000020c4       0x5c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .text.NVIC_EnableIRQ
+                0x00002120       0x30 USB_device.o
+ .text.BulkOut  0x00002150      0x26c USB_device.o
+ .text.BulkIn   0x000023bc      0x290 USB_device.o
+ .text.USB_IRQHandler
+                0x0000264c        0xc USB_device.o
+                0x0000264c                USB_IRQHandler
+ .text.main     0x00002658       0xcc USB_device.o
+                0x00002658                main
+ .text.Reset_Handler
+                0x00002724       0x70 startup_LPC17xx.o
+                0x00002724                Reset_Handler
+ .text.Default_Handler
+                0x00002794        0x8 startup_LPC17xx.o
+                0x00002794                TIMER2_IRQHandler
+                0x00002794                DebugMon_Handler
+                0x00002794                RIT_IRQHandler
+                0x00002794                I2C0_IRQHandler
+                0x00002794                SysTick_Handler
+                0x00002794                PWM1_IRQHandler
+                0x00002794                PendSV_Handler
+                0x00002794                I2C1_IRQHandler
+                0x00002794                EINT2_IRQHandler
+                0x00002794                UART1_IRQHandler
+                0x00002794                EINT3_IRQHandler
+                0x00002794                TIMER3_IRQHandler
+                0x00002794                UART0_IRQHandler
+                0x00002794                UsageFault_Handler
+                0x00002794                PLL0_IRQHandler
+                0x00002794                CAN_IRQHandler
+                0x00002794                PLL1_IRQHandler
+                0x00002794                SSP0_IRQHandler
+                0x00002794                I2S_IRQHandler
+                0x00002794                I2C2_IRQHandler
+                0x00002794                RTC_IRQHandler
+                0x00002794                TIMER0_IRQHandler
+                0x00002794                SPI_IRQHandler
+                0x00002794                EINT1_IRQHandler
+                0x00002794                TIMER1_IRQHandler
+                0x00002794                UART2_IRQHandler
+                0x00002794                Default_Handler
+                0x00002794                ADC_IRQHandler
+                0x00002794                SSP1_IRQHandler
+                0x00002794                BOD_IRQHandler
+                0x00002794                MemManage_Handler
+                0x00002794                WDT_IRQHandler
+                0x00002794                SVC_Handler
+                0x00002794                QEI_IRQHandler
+                0x00002794                EINT0_IRQHandler
+                0x00002794                DMA_IRQHandler
+                0x00002794                BusFault_Handler
+                0x00002794                UART3_IRQHandler
+                0x00002794                MCPWM_IRQHandler
+                0x00002794                ENET_IRQHandler
+ .text.SystemInit
+                0x0000279c      0x13c system_LPC17xx.o
+                0x0000279c                SystemInit
+ .text.sw_delay
+                0x000028d8       0x40 system_LPC17xx.o
+                0x000028d8                sw_delay
+ .text.FILE_Open
+                0x00002918      0x2b8 fat32.o
+                0x00002918                FILE_Open
+ .text.FILE_Close
+                0x00002bd0       0x20 fat32.o
+                0x00002bd0                FILE_Close
+ .text.FILE_GetCh
+                0x00002bf0       0xd8 fat32.o
+                0x00002bf0                FILE_GetCh
+ .text.FILE_PutCh
+                0x00002cc8      0x460 fat32.o
+                0x00002cc8                FILE_PutCh
+ .text.FILE_GetList
+                0x00003128      0x1a8 fat32.o
+                0x00003128                FILE_GetList
+ .text.extract_DataBySize
+                0x000032d0       0x4c fat32.o
+                0x000032d0                extract_DataBySize
+ .text.getBootSectorData
+                0x0000331c      0x180 fat32.o
+                0x0000331c                getBootSectorData
+ .text.getFirstSector
+                0x0000349c       0x2c fat32.o
+                0x0000349c                getFirstSector
+ .text.getSetNextCluster
+                0x000034c8       0xa0 fat32.o
+                0x000034c8                getSetNextCluster
+ .text.getSetFreeCluster
+                0x00003568       0xb0 fat32.o
+                0x00003568                getSetFreeCluster
+ .text.searchNextFreeCluster
+                0x00003618       0x9c fat32.o
+                0x00003618                searchNextFreeCluster
+ .text.convertFileName
+                0x000036b4      0x144 fat32.o
+                0x000036b4                convertFileName
+ .text.openFile
+                0x000037f8      0x17c fat32.o
+                0x000037f8                openFile
+ .text.freeMemoryUpdate
+                0x00003974       0x88 fat32.o
+                0x00003974                freeMemoryUpdate
+ .text.file_GetTime
+                0x000039fc       0x4c fat32.o
+                0x000039fc                file_GetTime
+ .text.file_GetDate
+                0x00003a48       0x4c fat32.o
+                0x00003a48                file_GetDate
+ .text.SD_Init  0x00003a94       0x44 sdcard.o
+                0x00003a94                SD_Init
+ .text.SD_sendCommand
+                0x00003ad8      0x110 sdcard.o
+                0x00003ad8                SD_sendCommand
+ .text.SD_readSingleBlock
+                0x00003be8       0xa0 sdcard.o
+                0x00003be8                SD_readSingleBlock
+ .text.SD_writeSingleBlock
+                0x00003c88      0x10c sdcard.o
+                0x00003c88                SD_writeSingleBlock
+ .text.init_SdCard
+                0x00003d94      0x12c sdcard.o
+                0x00003d94                init_SdCard
+ .text.ssp_init
+                0x00003ec0       0x7c ssp.o
+                0x00003ec0                ssp_init
+ .text.ssp_write
+                0x00003f3c       0x4c ssp.o
+                0x00003f3c                ssp_write
+ .text.ssp_read
+                0x00003f88       0x38 ssp.o
+                0x00003f88                ssp_read
+ .text.lcd_write_nibble
+                0x00003fc0       0x74 lcd.o
+                0x00003fc0                lcd_write_nibble
+ .text.lcd_busy_wait
+                0x00004034       0x58 lcd.o
+                0x00004034                lcd_busy_wait
+ .text.lcd_write_byte
+                0x0000408c       0x48 lcd.o
+                0x0000408c                lcd_write_byte
+ .text.lcd_puts
+                0x000040d4       0x48 lcd.o
+                0x000040d4                lcd_puts
+ .text.lcd_init
+                0x0000411c       0x64 lcd.o
+                0x0000411c                lcd_init
+ .text.lcd_clear
+                0x00004180       0x10 lcd.o
+                0x00004180                lcd_clear
+ .text.led_init
+                0x00004190       0x1c led.o
+                0x00004190                led_init
+ .text.led_on   0x000041ac       0x1c led.o
+                0x000041ac                led_on
+ .text.led_off  0x000041c8       0x18 led.o
+                0x000041c8                led_off
+ .text._HandleRequest
+                0x000041e0       0x48 usbcontrol.o
+ .text.StallControlPipe
+                0x00004228       0x34 usbcontrol.o
+ .text.DataIn   0x0000425c       0x50 usbcontrol.o
+ .text.USBHandleControlTransfer
+                0x000042ac      0x16c usbcontrol.o
+                0x000042ac                USBHandleControlTransfer
+ .text.USBRegisterRequestHandler
+                0x00004418       0x34 usbcontrol.o
+                0x00004418                USBRegisterRequestHandler
+ .text.Wait4DevInt
+                0x0000444c       0x30 usbhw_lpc.o
+ .text.USBHwCmd
+                0x0000447c       0x34 usbhw_lpc.o
+ .text.USBHwCmdWrite
+                0x000044b0       0x38 usbhw_lpc.o
+ .text.USBHwCmdRead
+                0x000044e8       0x3c usbhw_lpc.o
+ .text.USBHwEPRealize
+                0x00004524       0x48 usbhw_lpc.o
+ .text.USBHwEPEnable
+                0x0000456c       0x34 usbhw_lpc.o
+ .text.USBHwEPConfig
+                0x000045a0       0x3c usbhw_lpc.o
+                0x000045a0                USBHwEPConfig
+ .text.USBHwRegisterEPIntHandler
+                0x000045dc       0x68 usbhw_lpc.o
+                0x000045dc                USBHwRegisterEPIntHandler
+ .text.USBHwRegisterDevIntHandler
+                0x00004644       0x30 usbhw_lpc.o
+                0x00004644                USBHwRegisterDevIntHandler
+ .text.USBHwSetAddress
+                0x00004674       0x24 usbhw_lpc.o
+                0x00004674                USBHwSetAddress
+ .text.USBHwConnect
+                0x00004698       0x28 usbhw_lpc.o
+                0x00004698                USBHwConnect
+ .text.USBHwNakIntEnable
+                0x000046c0       0x20 usbhw_lpc.o
+                0x000046c0                USBHwNakIntEnable
+ .text.USBHwEPGetStatus
+                0x000046e0       0x30 usbhw_lpc.o
+                0x000046e0                USBHwEPGetStatus
+ .text.USBHwEPStall
+                0x00004710       0x48 usbhw_lpc.o
+                0x00004710                USBHwEPStall
+ .text.USBHwEPWrite
+                0x00004758       0x98 usbhw_lpc.o
+                0x00004758                USBHwEPWrite
+ .text.USBHwEPRead
+                0x000047f0       0xcc usbhw_lpc.o
+                0x000047f0                USBHwEPRead
+ .text.USBHwConfigDevice
+                0x000048bc       0x28 usbhw_lpc.o
+                0x000048bc                USBHwConfigDevice
+ .text.USBHwISR
+                0x000048e4      0x19c usbhw_lpc.o
+                0x000048e4                USBHwISR
+ .text.USBHwInit
+                0x00004a80       0xc8 usbhw_lpc.o
+                0x00004a80                USBHwInit
+ .text.HandleUsbReset
+                0x00004b48       0x14 usbinit.o
+ .text.USBInit  0x00004b5c       0x50 usbinit.o
+                0x00004b5c                USBInit
+ .text.USBRegisterDescriptors
+                0x00004bac       0x1c usbstdreq.o
+                0x00004bac                USBRegisterDescriptors
+ .text.USBGetDescriptor
+                0x00004bc8       0x9c usbstdreq.o
+                0x00004bc8                USBGetDescriptor
+ .text.USBSetConfiguration
+                0x00004c64       0xb8 usbstdreq.o
+ .text.HandleStdDeviceReq
+                0x00004d1c       0xd0 usbstdreq.o
+ .text.HandleStdInterfaceReq
+                0x00004dec       0x9c usbstdreq.o
+ .text.HandleStdEndPointReq
+                0x00004e88       0xd0 usbstdreq.o
+ .text.USBHandleStandardRequest
+                0x00004f58       0x78 usbstdreq.o
+                0x00004f58                USBHandleStandardRequest
+ .text.memset   0x00004fd0       0x9c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+                0x00004fd0                memset
+ .text.sprintf  0x0000506c       0x4c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sprintf.o)
+                0x0000506c                sprintf
+ .text          0x000050b8      0x1bc /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcmp.o)
+                0x000050b8                strcmp
+ .text.strcpy   0x00005274       0xbc /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcpy.o)
+                0x00005274                strcpy
+ .text.strlen   0x00005330       0x5c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen-stub.o)
+                0x00005330                strlen
+ .text._svfprintf_r
+                0x0000538c     0x175c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o)
+                0x0000538c                _svfprintf_r
+ .text.startup.register_fini
+                0x00006ae8       0x14 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x00006afc        0xc /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+                0x00006afc                atexit
+ .text.quorem   0x00006b08      0x12c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-dtoa.o)
+ *fill*         0x00006c34        0x4 
+ .text._dtoa_r  0x00006c38      0xe4c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-dtoa.o)
+                0x00006c38                _dtoa_r
+ .text.__libc_fini_array
+                0x00007a84       0x28 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+                0x00007a84                __libc_fini_array
+ .text._localeconv_r
+                0x00007aac        0x8 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+                0x00007aac                _localeconv_r
+ .text._malloc_r
+                0x00007ab4      0x558 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+                0x00007ab4                _malloc_r
+ .text.memchr   0x0000800c       0x8c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memchr-stub.o)
+                0x0000800c                memchr
+ .text          0x00008098       0xec /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memcpy.o)
+                0x00008098                memcpy
+ .text.__malloc_lock
+                0x00008184        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+                0x00008184                __malloc_lock
+ .text.__malloc_unlock
+                0x00008188        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+                0x00008188                __malloc_unlock
+ .text._Balloc  0x0000818c       0x50 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+                0x0000818c                _Balloc
+ .text._Bfree   0x000081dc       0x14 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+                0x000081dc                _Bfree
+ .text.__multadd
+                0x000081f0       0x80 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+                0x000081f0                __multadd
+ .text.__hi0bits
+                0x00008270       0x40 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+                0x00008270                __hi0bits
+ .text.__lo0bits
+                0x000082b0       0x5c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+                0x000082b0                __lo0bits
+ .text.__i2b    0x0000830c       0x14 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+                0x0000830c                __i2b
+ .text.__multiply
+                0x00008320      0x13c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+                0x00008320                __multiply
+ .text.__pow5mult
+                0x0000845c       0xa0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+                0x0000845c                __pow5mult
+ .text.__lshift
+                0x000084fc       0xac /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+                0x000084fc                __lshift
+ .text.__mcmp   0x000085a8       0x40 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+                0x000085a8                __mcmp
+ .text.__mdiff  0x000085e8      0x128 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+                0x000085e8                __mdiff
+ .text.__d2b    0x00008710       0xa8 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+                0x00008710                __d2b
+ .text._sbrk_r  0x000087b8       0x24 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o)
+                0x000087b8                _sbrk_r
+ .text.__ssprint_r
+                0x000087dc      0x100 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfiprintf.o)
+                0x000087dc                __ssprint_r
+ .text.__register_exitproc
+                0x000088dc       0xa4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+                0x000088dc                __register_exitproc
+ .text._calloc_r
+                0x00008980       0x60 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-callocr.o)
+                0x00008980                _calloc_r
+ .text._malloc_trim_r
+                0x000089e0       0x9c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+                0x000089e0                _malloc_trim_r
+ .text._free_r  0x00008a7c      0x1d0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+                0x00008a7c                _free_r
+ .text.memmove  0x00008c4c       0xc8 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+                0x00008c4c                memmove
+ .text._realloc_r
+                0x00008d14      0x3d4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reallocr.o)
+                0x00008d14                _realloc_r
+ .text._sbrk    0x000090e8       0x1c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+                0x000090e8                _sbrk
+ .text          0x00009104      0x370 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_addsubdf3.o)
+                0x00009104                __aeabi_drsub
+                0x0000910c                __aeabi_dsub
+                0x0000910c                __subdf3
+                0x00009110                __adddf3
+                0x00009110                __aeabi_dadd
+                0x00009388                __aeabi_ui2d
+                0x00009388                __floatunsidf
+                0x000093a8                __floatsidf
+                0x000093a8                __aeabi_i2d
+                0x000093cc                __extendsfdf2
+                0x000093cc                __aeabi_f2d
+                0x00009408                __aeabi_ul2d
+                0x00009408                __floatundidf
+                0x00009418                __floatdidf
+                0x00009418                __aeabi_l2d
+ .text          0x00009474      0x424 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_muldivdf3.o)
+                0x00009474                __aeabi_dmul
+                0x00009474                __muldf3
+                0x000096c8                __aeabi_ddiv
+                0x000096c8                __divdf3
+ .text          0x00009898      0x110 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_cmpdf2.o)
+                0x00009898                __gtdf2
+                0x00009898                __gedf2
+                0x000098a0                __ltdf2
+                0x000098a0                __ledf2
+                0x000098a8                __cmpdf2
+                0x000098a8                __eqdf2
+                0x000098a8                __nedf2
+                0x00009924                __aeabi_cdrcmple
+                0x00009934                __aeabi_cdcmple
+                0x00009934                __aeabi_cdcmpeq
+                0x00009944                __aeabi_dcmpeq
+                0x00009958                __aeabi_dcmplt
+                0x0000996c                __aeabi_dcmple
+                0x00009980                __aeabi_dcmpge
+                0x00009994                __aeabi_dcmpgt
+ .text          0x000099a8       0x2c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_unorddf2.o)
+                0x000099a8                __aeabi_dcmpun
+                0x000099a8                __unorddf2
+ .text          0x000099d4       0x50 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_fixdfsi.o)
+                0x000099d4                __fixdfsi
+                0x000099d4                __aeabi_d2iz
+ .text          0x00009a24       0x30 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+                0x00009a24                __aeabi_uldivmod
+ .text          0x00009a54      0x2ec /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_udivmoddi4.o)
+                0x00009a54                __udivmoddi4
+ .text          0x00009d40        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_dvmd_tls.o)
+                0x00009d40                __aeabi_ldiv0
+                0x00009d40                __aeabi_idiv0
+ *(.init)
+ .init          0x00009d44        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+                0x00009d44                _init
+ .init          0x00009d48        0x8 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ *(.fini)
+ .fini          0x00009d50        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+                0x00009d50                _fini
+ .fini          0x00009d54        0x8 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.abDescriptors
+                0x00009d5c       0x76 USB_device.o
+ *fill*         0x00009dd2        0x2 
+ .rodata        0x00009dd4      0x194 USB_device.o
+ .rodata.str1.4
+                0x00009f68        0x2 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ *fill*         0x00009f6a        0x2 
+ .rodata._global_impure_ptr
+                0x00009f6c        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                0x00009f6c                _global_impure_ptr
+ .rodata.blanks.7055
+                0x00009f70       0x10 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x00009f80       0x42 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o)
+ *fill*         0x00009fc2        0x2 
+ .rodata.zeroes.7056
+                0x00009fc4       0x10 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x00009fd4       0x10 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-dtoa.o)
+                                 0x12 (size before relaxing)
+ .rodata.str1.4
+                0x00009fe4        0xc /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+                                 0x12 (size before relaxing)
+ .rodata.__mprec_tens
+                0x00009ff0       0xc8 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+                0x00009ff0                __mprec_tens
+ .rodata.__mprec_bigtens
+                0x0000a0b8       0x28 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+                0x0000a0b8                __mprec_bigtens
+ .rodata.p05.5396
+                0x0000a0e0        0xc /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+ *(.eh_frame*)
+ .eh_frame      0x0000a0ec        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .eh_frame      0x0000a0ec        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+
+.glue_7         0x0000a0f0        0x0
+ .glue_7        0x0000a0f0        0x0 linker stubs
+
+.glue_7t        0x0000a0f0        0x0
+ .glue_7t       0x0000a0f0        0x0 linker stubs
+
+.vfp11_veneer   0x0000a0f0        0x0
+ .vfp11_veneer  0x0000a0f0        0x0 linker stubs
+
+.v4_bx          0x0000a0f0        0x0
+ .v4_bx         0x0000a0f0        0x0 linker stubs
+
+.iplt           0x0000a0f0        0x0
+ .iplt          0x0000a0f0        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000a0f0                __exidx_start = .
+
+.ARM.exidx      0x0000a0f0        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000a0f0        0x8 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_udivmoddi4.o)
+                0x0000a0f8                __exidx_end = .
+                0x0000a0f8                __etext = .
+                0x0000a0f8                __sidata = __etext
+
+.rel.dyn        0x0000a0f8        0x0
+ .rel.iplt      0x0000a0f8        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.data           0x100000c8      0x888 load address 0x0000a0f8
+                0x100000c8                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.clusterNumber.4797
+                0x100000c8        0x4 fat32.o
+ *fill*         0x100000cc        0x4 
+ .data.impure_data
+                0x100000d0      0x428 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x100004f8        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                0x100004f8                _impure_ptr
+ .data.lconv    0x100004fc       0x38 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .data.__malloc_av_
+                0x10000534      0x408 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+                0x10000534                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x1000093c        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+                0x1000093c                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x10000940        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+                0x10000940                __malloc_sbrk_base
+                0x10000944                . = ALIGN (0x4)
+                0x10000944                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x10000944                PROVIDE (__preinit_array_end, .)
+                0x10000944                . = ALIGN (0x4)
+                0x10000944                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x10000944        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x10000948        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+                0x1000094c                PROVIDE (__init_array_end, .)
+                0x1000094c                . = ALIGN (0x4)
+                0x1000094c                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x1000094c        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+                0x10000950                PROVIDE (__fini_array_end, .)
+                0x10000950                . = ALIGN (0x4)
+                0x10000950                __data_end__ = .
+
+.jcr            0x10000950        0x0 load address 0x0000a980
+ .jcr           0x10000950        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.igot.plt       0x10000950        0x0 load address 0x0000a980
+ .igot.plt      0x10000950        0x0 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+
+.stackarea      0x10000950      0x800 load address 0x0000a980
+ .stackarea     0x10000950      0x800 startup_LPC17xx.o
+                0x10000950                pulStack
+
+.bss            0x10001150      0x894 load address 0x0000b180
+                0x10001150                __bss_start__ = .
+ *(.bss*)
+ .bss           0x10001150       0x1c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .bss.returnStatus
+                0x1000116c        0x1 USB_device.o
+                0x1000116c                returnStatus
+ .bss.sdcardType
+                0x1000116d        0x1 USB_device.o
+                0x1000116d                sdcardType
+ .bss.ch        0x1000116e        0x1 USB_device.o
+                0x1000116e                ch
+ *fill*         0x1000116f        0x1 
+ .bss.srcFilePtr
+                0x10001170        0x4 USB_device.o
+                0x10001170                srcFilePtr
+ .bss.fileList  0x10001174       0x10 USB_device.o
+                0x10001174                fileList
+ .bss.pending   0x10001184        0x1 USB_device.o
+ *fill*         0x10001185        0x3 
+ .bss.option    0x10001188        0x6 USB_device.o
+                0x10001188                option
+ *fill*         0x1000118e        0x2 
+ .bss.read_filename
+                0x10001190        0xc USB_device.o
+                0x10001190                read_filename
+ .bss.write_filename
+                0x1000119c        0xc USB_device.o
+                0x1000119c                write_filename
+ .bss.write_file_buf
+                0x100011a8       0x40 USB_device.o
+                0x100011a8                write_file_buf
+ .bss.write_file_open
+                0x100011e8        0x1 USB_device.o
+ *fill*         0x100011e9        0x3 
+ .bss.abBulkBuf
+                0x100011ec       0x40 USB_device.o
+ .bss.write_buffer
+                0x1000122c       0x40 USB_device.o
+ .bss.firstDataSector
+                0x1000126c        0x4 fat32.o
+                0x1000126c                firstDataSector
+ .bss.rootCluster
+                0x10001270        0x4 fat32.o
+                0x10001270                rootCluster
+ .bss.totalClusters
+                0x10001274        0x4 fat32.o
+                0x10001274                totalClusters
+ .bss.bytesPerSector
+                0x10001278        0x2 fat32.o
+                0x10001278                bytesPerSector
+ .bss.sectorPerCluster
+                0x1000127a        0x2 fat32.o
+                0x1000127a                sectorPerCluster
+ .bss.reservedSectorCount
+                0x1000127c        0x2 fat32.o
+                0x1000127c                reservedSectorCount
+ *fill*         0x1000127e        0x2 
+ .bss.unusedSectors
+                0x10001280        0x4 fat32.o
+                0x10001280                unusedSectors
+ .bss.freeClusterCountUpdated
+                0x10001284        0x1 fat32.o
+                0x10001284                freeClusterCountUpdated
+ *fill*         0x10001285        0x3 
+ .bss.fatMappingTable
+                0x10001288      0x480 fat32.o
+                0x10001288                fatMappingTable
+ .bss.GlobalBuffer
+                0x10001708      0x200 fat32.o
+                0x10001708                GlobalBuffer
+ .bss.sectorNumber.4798
+                0x10001908        0x4 fat32.o
+ .bss.i.4801    0x1000190c        0x2 fat32.o
+ *fill*         0x1000190e        0x2 
+ .bss.firstSectorIndex.4799
+                0x10001910        0x4 fat32.o
+ .bss.V_SdHighcapacityFlag_u8
+                0x10001914        0x1 sdcard.o
+                0x10001914                V_SdHighcapacityFlag_u8
+ *fill*         0x10001915        0x3 
+ .bss.Setup     0x10001918        0x8 usbcontrol.o
+ .bss.pbData    0x10001920        0x4 usbcontrol.o
+ .bss.iResidue  0x10001924        0x4 usbcontrol.o
+ .bss.iLen      0x10001928        0x4 usbcontrol.o
+ .bss.apfnReqHandlers
+                0x1000192c       0x10 usbcontrol.o
+ .bss.apbDataStore
+                0x1000193c       0x10 usbcontrol.o
+ .bss._pfnDevIntHandler
+                0x1000194c        0x4 usbhw_lpc.o
+ .bss._apfnEPIntHandlers
+                0x10001950       0x40 usbhw_lpc.o
+ .bss._pfnFrameHandler
+                0x10001990        0x4 usbhw_lpc.o
+ .bss.abStdReqData
+                0x10001994        0x8 usbinit.o
+ .bss.bConfiguration
+                0x1000199c        0x1 usbstdreq.o
+ *fill*         0x1000199d        0x3 
+ .bss.pfnHandleCustomReq
+                0x100019a0        0x4 usbstdreq.o
+ .bss.pabDescrip
+                0x100019a4        0x4 usbstdreq.o
+ .bss.__malloc_max_total_mem
+                0x100019a8        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+                0x100019a8                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x100019ac        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+                0x100019ac                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x100019b0        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+                0x100019b0                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x100019b4       0x28 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+                0x100019b4                __malloc_current_mallinfo
+ .bss.heap_end.4167
+                0x100019dc        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x100019e0        0x4 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+                0x100019e0                errno
+                0x100019e4                __bss_end__ = .
+
+.heap           0x100019e4        0x0
+                0x100019e4                __end__ = .
+                0x100019e4                end = __end__
+ *(.heap*)
+                0x100019e4                __HeapLimit = .
+
+.stack_dummy    0x100019e4        0x0
+ *(.stack)
+                0x10008000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x10008000                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x10008000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(basic.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x1d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x33 USB_device.o
+ .ARM.attributes
+                0x0000007d       0x33 startup_LPC17xx.o
+ .ARM.attributes
+                0x000000b0       0x33 system_LPC17xx.o
+ .ARM.attributes
+                0x000000e3       0x33 fat32.o
+ .ARM.attributes
+                0x00000116       0x33 sdcard.o
+ .ARM.attributes
+                0x00000149       0x33 ssp.o
+ .ARM.attributes
+                0x0000017c       0x33 lcd.o
+ .ARM.attributes
+                0x000001af       0x33 led.o
+ .ARM.attributes
+                0x000001e2       0x33 usbcontrol.o
+ .ARM.attributes
+                0x00000215       0x33 usbhw_lpc.o
+ .ARM.attributes
+                0x00000248       0x33 usbinit.o
+ .ARM.attributes
+                0x0000027b       0x33 usbstdreq.o
+ .ARM.attributes
+                0x000002ae       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000002db       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000308       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x00000335       0x1b /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000350       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x0000037d       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x000003aa       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x000003d7       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000404       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000431       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x0000045e       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000048b       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x000004b8       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x000004e5       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000512       0x1b /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000052d       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000055a       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x00000587       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000005b4       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x000005e1       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000060e       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x0000063b       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000668       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000695       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x000006c2       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000006ef       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x0000071c       0x1d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000739       0x1d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000756       0x1d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000773       0x1d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000790       0x1d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x000007ad       0x1d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x000007ca       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x000007f7       0x1d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000814       0x2d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtend.o
+ .ARM.attributes
+                0x00000841       0x1d /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/crtn.o
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e USB_device.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f startup_LPC17xx.o
+ .comment       0x0000006e       0x6f system_LPC17xx.o
+ .comment       0x0000006e       0x6f fat32.o
+ .comment       0x0000006e       0x6f sdcard.o
+ .comment       0x0000006e       0x6f ssp.o
+ .comment       0x0000006e       0x6f lcd.o
+ .comment       0x0000006e       0x6f led.o
+ .comment       0x0000006e       0x6f usbcontrol.o
+ .comment       0x0000006e       0x6f usbhw_lpc.o
+ .comment       0x0000006e       0x6f usbinit.o
+ .comment       0x0000006e       0x6f usbstdreq.o
+
+.debug_frame    0x00000000      0x928
+ .debug_frame   0x00000000       0x34 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000034       0x84 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sprintf.o)
+ .debug_frame   0x000000b8       0x34 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcmp.o)
+ .debug_frame   0x000000ec       0x20 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcpy.o)
+ .debug_frame   0x0000010c       0x20 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen-stub.o)
+ .debug_frame   0x0000012c       0x44 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x00000170       0x50 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000001c0       0x20 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .debug_frame   0x000001e0       0x84 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00000264       0x34 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000298       0x9c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-locale.o)
+ .debug_frame   0x00000334       0x54 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000388       0x34 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memchr-stub.o)
+ .debug_frame   0x000003bc       0x30 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mlock.o)
+ .debug_frame   0x000003ec      0x264 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-mprec.o)
+ .debug_frame   0x00000650       0x2c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000067c       0x78 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x000006f4       0x34 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000728       0x28 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-callocr.o)
+ .debug_frame   0x00000750       0x74 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-freer.o)
+ .debug_frame   0x000007c4       0x30 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+ .debug_frame   0x000007f4       0x58 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x0000084c       0x58 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libc.a(lib_a-reent.o)
+ .debug_frame   0x000008a4       0x20 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/arm-none-eabi/lib/armv7-m/libnosys.a(sbrk.o)
+ .debug_frame   0x000008c4       0x2c /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x000008f0       0x38 /home/lokesh/desd/ARM/Toolchain/gcc-arm-none-eabi-5_4-2016q2/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a(_udivmoddi4.o)

@@ -1,0 +1,1 @@
+cmd_/home/lokesh/desd/project/USB/Driver/usb/pendrive.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/lokesh/desd/project/USB/Driver/usb/pendrive.ko /home/lokesh/desd/project/USB/Driver/usb/pendrive.o /home/lokesh/desd/project/USB/Driver/usb/pendrive.mod.o
